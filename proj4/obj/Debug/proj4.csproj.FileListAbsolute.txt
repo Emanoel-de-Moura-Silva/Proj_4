@@ -1,0 +1,22 @@
+C:\PPIR\proj4\proj4\bin\proj4.dll
+C:\PPIR\proj4\proj4\bin\proj4.pdb
+C:\PPIR\proj4\proj4\obj\Debug\ResolveAssemblyReference.cache
+C:\PPIR\proj4\proj4\obj\Debug\proj4.dll
+C:\PPIR\proj4\proj4\obj\Debug\proj4.pdb
+C:\PPIR\proj4a\proj4\bin\proj4.dll
+C:\PPIR\proj4a\proj4\bin\proj4.pdb
+C:\PPIR\proj4a\proj4\obj\Debug\ResolveAssemblyReference.cache
+C:\PPIR\proj4a\proj4\obj\Debug\proj4.dll
+C:\PPIR\proj4a\proj4\obj\Debug\proj4.pdb
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\bin\proj4.dll
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\bin\proj4.pdb
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\obj\Debug\proj4.csproj.AssemblyReference.cache
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\obj\Debug\proj4.csproj.CoreCompileInputs.cache
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\obj\Debug\proj4.dll
+C:\Users\B901175\Pictures\PPIR\proj4\proj4\obj\Debug\proj4.pdb
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\bin\proj4.dll
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\bin\proj4.pdb
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\obj\Debug\proj4.csproj.AssemblyReference.cache
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\obj\Debug\proj4.csproj.CoreCompileInputs.cache
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\obj\Debug\proj4.dll
+C:\Users\B901175\Pictures\PPIR\proj4 - Com  banco de dados\proj4\obj\Debug\proj4.pdb
